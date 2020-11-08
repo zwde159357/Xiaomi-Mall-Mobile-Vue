@@ -1,6 +1,7 @@
 本项目使用的服务器为后台程序员所写！
 
 启动服务器：node index.js
+启动程序：npm start
 
 使用技术：vue,axios,vue-router
 
